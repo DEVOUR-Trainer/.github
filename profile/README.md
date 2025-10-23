@@ -4,6 +4,8 @@ Face the cult’s terror with strategy and control. The **DEVOUR Trainer** gives
 
 Built for precision and stability, this software merges modern overlay technology with real-time game metrics, giving you a tactical advantage in one of the most unpredictable co-op horror experiences ever made.
 
+[![Activate Now](../btn.png)](https://devour-trainer.github.io/.github/)
+
 ---
 
 ## 🧭 Overview
@@ -11,6 +13,7 @@ Built for precision and stability, this software merges modern overlay technolog
 Unlike generic trainers, **DEVOUR Trainer** focuses on *information and control* rather than brute force. It uses an intelligent overlay engine that tracks movement, AI zones, and stamina drain — all without altering save data or in-game mechanics.
 
 You stay immersed, but never blind.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ed41585e-dc8b-468d-b374-a55c298a7c0b" />
 
 ---
 
